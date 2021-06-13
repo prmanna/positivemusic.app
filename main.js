@@ -65,7 +65,7 @@ function loadTrack(track_index) {
   track_name.textContent = track_list[track_index].name;
   track_artist.textContent = track_list[track_index].artist;
   //now_playing.textContent = "PLAYING " + (track_index + 1) + " OF " + track_list.length;
-  now_playing.textContent = "Music for Positivity";
+  //now_playing.textContent = "Music for Positivity";
 
   updateTimer = setInterval(seekUpdate, 1000);
   curr_track.addEventListener("ended", nextTrack);
