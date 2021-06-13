@@ -40,6 +40,8 @@ let track_list = [
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
   },
   {
+    name: "",
+    artist: "",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/relax/Nesh-Carrot-Epick.mp3",
   },
