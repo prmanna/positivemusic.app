@@ -39,6 +39,10 @@ let track_list = [
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
   },
+  {
+    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/relax/Nesh-Carrot-Epick.mp3",
+  },
 ];
 
 function random_bg_color() {
@@ -65,7 +69,6 @@ function loadTrack(track_index) {
   track_name.textContent = track_list[track_index].name;
   track_artist.textContent = track_list[track_index].artist;
   //now_playing.textContent = "PLAYING " + (track_index + 1) + " OF " + track_list.length;
-  //now_playing.textContent = "Music for Positivity";
 
   updateTimer = setInterval(seekUpdate, 1000);
   curr_track.addEventListener("ended", nextTrack);
