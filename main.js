@@ -67,12 +67,6 @@ let track_list = [
     name: "",
     artist: "",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-5-Let-Go.mp3",
-  },
-  {
-    name: "",
-    artist: "",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-3-Love-Yourself.mp3",
   },
   {
@@ -98,12 +92,6 @@ let track_list = [
     artist: "",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-6-Half-Smile.mp3",
-  },
-  {
-    name: "",
-    artist: "",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-7-Meditate.mp3",
   },
 ];
 
