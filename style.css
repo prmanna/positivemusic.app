@@ -21,6 +21,17 @@ body {
   margin-top: 25px;
 }
 
+.details-inline {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 25px;
+  max-width: 70ch;
+  display:inline;
+}
+
+
 .track-art {
   margin: 25px;
   height: 250px;
@@ -115,3 +126,14 @@ i.fa-volume-down, i.fa-volume-up {
 i.fa-play-circle, i.fa-pause-circle, i.fa-step-forward, i.fa-step-backward {
   cursor: pointer;
 }
+
+.footer-icon {
+  margin-top: 40px
+}
+
+.footer .fa {
+  color: #333;
+  width: 13px;
+}
+
+
