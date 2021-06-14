@@ -1,1 +1,25 @@
 
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/"Cambo-4-Focus.mp3,
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-1-Welcome.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-2-Breathe.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-6-Half-Smile.mp3",
+  },
