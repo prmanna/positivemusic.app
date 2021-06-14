@@ -22,28 +22,76 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3"
-  },
-  {
-    name: "Enthusiast",
-    artist: "Tours",
-    image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
-  },
-  {
     name: "",
     artist: "",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/relax/Nesh-Carrot-Epick.mp3",
   },
   {
-    name: "Shipping Lanes",
-    artist: "Chad Crouch",
-    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Chad_Crouch/Arps/Chad_Crouch_-_Shipping_Lanes.mp3",
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Space-ambient-mix1.mp3.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Harmony-in-the-night.mp3.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Journey-in-the-wind.mp3.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Peace-landscape.mp3.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-5-Let-Go.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-3-Love-Yourself.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/"Cambo-4-Focus.mp3,
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-1-Welcome.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-2-Breathe.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-6-Half-Smile.mp3",
+  },
+  {
+    name: "",
+    artist: "",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-7-Meditate.mp3",
   },
 ];
 

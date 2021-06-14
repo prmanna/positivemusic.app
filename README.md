@@ -1,12 +1,7 @@
-# js-music-player
-This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
+# Music for Positivity
 
-![Output](/output/html-css.png)
+#### Copyright notice
+Most of streamed tracks were found publicly available with "free download & use" option and labeled either "royalty free", "no copyright requirements" or "public domain" by the uploader. Some of the musics are downloaded from (freemusicarchive.org](https://freemusicarchive.org) licensed under (CC BY-NC)[https://creativecommons.org/licenses/by-nc/3.0/]. Please do let me know if you encountered any copyrighted tunes on this site so I can resolve the issue. This is a non-profit project.
 
-## Running the player
 
-The index.html file can be run on any modern browser to run the music player.
 
-## Adding more tracks
-
-The tracks are currently being loaded from the tracklist array specified in main.js. More tracks can be added by adding the details of each track as an object to the tracklist.
