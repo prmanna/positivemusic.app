@@ -37,19 +37,19 @@ let track_list = [
     name: "1",
     artist: "1",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/relax/Nesh-Carrot-Epick.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689813/relax/Nesh-Carrot-Epick_jjuuzu.mp3",
   },
   {
     name: "3",
     artist: "3",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Harmony-in-the-night.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Journey-in-the-wind.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689532/focus/Almusic34-Journey-in-the-wind_t4puml.mp3",
   },
 ];
 
