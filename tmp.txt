@@ -1,34 +1,4 @@
 
-  {
-    name: "5",
-    artist: "5",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Almusic34-Peace-landscape.mp3",
-  },
-  {
-    name: "6",
-    artist: "6",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-3-Love-Yourself.mp3",
-  },
-  {
-    name: "7",
-    artist: "7",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/"Cambo-4-Focus.mp3,
-  },
-  {
-    name: "8",
-    artist: "8",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-1-Welcome.mp3",
-  },
-  {
-    name: "9",
-    artist: "9",
-    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/focus/Cambo-2-Breathe.mp3",
-  },
 
 
 
