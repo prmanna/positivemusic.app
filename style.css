@@ -35,7 +35,7 @@ body {
 .track-art {
   margin: 25px;
   height: 150px;
-  width: 150px;
+  width: 250px;
   background-image: url("https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
   background-size: cover;
   border-radius: 15%;
