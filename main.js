@@ -22,8 +22,8 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "",
-    artist: "",
+    name: "New",
+    artist: "New",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://prasenjitmanna.com/positivemusic.app/playlist/channels/relax/Nesh-Carrot-Epick.mp3",
   },
