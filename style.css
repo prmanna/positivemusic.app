@@ -126,6 +126,12 @@ i.fa-play-circle, i.fa-pause-circle, i.fa-step-forward, i.fa-step-backward {
   cursor: pointer;
 }
 
+.footer .btn {
+  padding: 8px;
+  margin: 8px;
+  cursor: pointer;
+}
+
 .footer-icon {
   margin-top: 40px
 }
