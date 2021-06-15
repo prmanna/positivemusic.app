@@ -129,8 +129,7 @@ function pauseTrack() {
 }
 
 function nextTrack() {
-  track_index = Math.floor((Math.random() * track_list.length));
-  else track_index = 0;
+  track_index = Math.floor(Math.random() * track_list.length);
   loadTrack(track_index);
   playTrack();
 }
