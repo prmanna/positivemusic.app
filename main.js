@@ -26,90 +26,105 @@ let track_list = [
     artist: "5",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689541/focus/Almusic34-Peace-landscape_hlhbya.mp3",
+    url: ""
   },
   {
     name: "6",
     artist: "6",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689524/focus/Cambo-3-Love-Yourself_krhpqk.mp3",
+    url: ""
   },
   {
     name: "7",
     artist: "7",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689573/focus/Cambo-4-Focus_gwp5xh.mp3",
+    url: ""
   },
   {
     name: "8",
     artist: "8",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689538/focus/Cambo-1-Welcome_eq3q21.mp3",
+    url: ""
   },
   {
     name: "9",
     artist: "9",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689561/focus/Cambo-2-Breathe_mntif1.mp3",
+    url: ""
   },
   {
     name: "1",
     artist: "1",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689813/relax/Nesh-Carrot-Epick_jjuuzu.mp3",
+    url: ""
   },
   {
     name: "3",
     artist: "3",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689532/focus/Almusic34-Journey-in-the-wind_t4puml.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/instrumental/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/instrumental/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
+    url: ""
   },
   {
     name: "4",
     artist: "4",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/instrumental/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
+    url: ""
   },
 ];
 
@@ -134,8 +149,8 @@ function loadTrack(track_index) {
   curr_track.load();
 
   track_art.style.backgroundImage = "url(" + track_list[track_index].image + ")";
-  track_name.textContent = track_list[track_index].name;
-  track_artist.textContent = track_list[track_index].artist;
+  track_name.textContent = "Playing Track: "+ track_index;
+  //track_artist.textContent = track_list[track_index].artist;
   //now_playing.textContent = "PLAYING " + (track_index + 1) + " OF " + track_list.length;
 
   updateTimer = setInterval(seekUpdate, 1000);
