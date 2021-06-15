@@ -22,18 +22,6 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3"
-  },
-  {
-    name: "Enthusiast",
-    artist: "Tours",
-    image: "https://images.pexels.com/photos/3100835/pexels-photo-3100835.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Tours/Enthusiast/Tours_-_01_-_Enthusiast.mp3"
-  },
-  {
     name: "5",
     artist: "5",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
@@ -120,6 +108,7 @@ function resetValues() {
 }
 
 // Load the first track in the tracklist
+track_index = Math.floor((Math.random() * track_list.length));
 loadTrack(track_index);
 
 function playpauseTrack() {
@@ -140,8 +129,7 @@ function pauseTrack() {
 }
 
 function nextTrack() {
-  if (track_index < track_list.length - 1)
-    track_index += 1;
+  track_index = Math.floor((Math.random() * track_list.length));
   else track_index = 0;
   loadTrack(track_index);
   playTrack();
