@@ -69,6 +69,48 @@ let track_list = [
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689532/focus/Almusic34-Journey-in-the-wind_t4puml.mp3",
   },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/instrumental/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/instrumental/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
+  },
+  {
+    name: "4",
+    artist: "4",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/instrumental/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
+  },
 ];
 
 function random_bg_color() {
