@@ -22,6 +22,41 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
+    name: "1",
+    artist: "1",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678517/sleep/Relaxing_050m_00s__060m_00s_uzdsqi.mp3",
+    url: ""
+  },
+  {
+    name: "1",
+    artist: "1",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678512/sleep/Relaxing_020m_00s__030m_00s_k5y4du.mp3",
+    url: ""
+  },
+  {
+    name: "1",
+    artist: "1",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678511/sleep/Relaxing_030m_00s__040m_00s_kg3cnm.mp3",
+    url: ""
+  },
+  {
+    name: "1",
+    artist: "1",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678510/sleep/Relaxing_000m_00s__010m_00s_jiir17.mp3",
+    url: ""
+  },
+  {
+    name: "1",
+    artist: "1",
+    image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678507/sleep/Relaxing_010m_00s__020m_00s_onywww.mp3",
+    url: ""
+  },
+  {
     name: "5",
     artist: "5",
     image: "https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
@@ -165,7 +200,7 @@ function resetValues() {
 }
 
 // Load the first track in the tracklist
-track_index = Math.floor((Math.random() * track_list.length));
+//track_index = Math.floor((Math.random() * track_list.length));
 loadTrack(track_index);
 
 function playpauseTrack() {
@@ -186,7 +221,8 @@ function pauseTrack() {
 }
 
 function nextTrack() {
-  track_index = Math.floor(Math.random() * track_list.length);
+  //track_index = Math.floor(Math.random() * track_list.length);
+  track_index += 1;
   loadTrack(track_index);
   playTrack();
 }
