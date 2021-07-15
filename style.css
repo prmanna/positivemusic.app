@@ -1,5 +1,5 @@
 body {
-  background-color: aqua;
+  background-color: antiquewhite;
 
   /* Smoothly transition the background color */
   transition: background-color .5s;
@@ -11,6 +11,15 @@ body {
   align-items: center;
   flex-direction: column;
   justify-content: center;
+}
+.genre .button {
+  background-color: black;
+  color: white;
+  padding: 10px 22px;
+  text-align: center;
+  display: inline-block;
+  font-size: 12px;
+  cursor: pointer;
 }
 
 .details {
@@ -33,7 +42,7 @@ body {
 }
 
 .track-art {
-  margin: 25px;
+  margin: 15px;
   height: 150px;
   width: 250px;
   background-image: url("https://images.pexels.com/photos/457881/pexels-photo-457881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
