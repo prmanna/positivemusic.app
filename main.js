@@ -67,6 +67,126 @@ let relax_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869770/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__10m_00s__20m_00s_str9ge.mp3",
     url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
   },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871806/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_30m_00s__40m_00s_crowdr.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871804/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_00m_00s__10m_00s_rmjgvk.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871798/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_20m_00s__30m_00s_mvz8kb.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871799/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_10m_00s__20m_00s_rvanze.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871798/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_70m_00s__80m_00s_yk1ior.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871797/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_60m_00s__70m_00s_dsae6m.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871796/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_40m_00s__50m_00s_crnlwn.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626871791/relax/Soft_Piano_Music_For_Relaxation___Snowing_Background___Relax_Music_Meditation-DRnyxlaqqLk_50m_00s__60m_00s_o6atcq.mp3",
+    url: "https://www.youtube.com/watch?v=DRnyxlaqqLk"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872306/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_00m_00s__10m_00s_kn8yas.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872306/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_40m_00s__50m_00s_kpjqzc.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872306/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_50m_00s__60m_00s_dfemox.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872305/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_20m_00s__30m_00s_nlr6kz.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872302/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_30m_00s__40m_00s_t1aonr.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872299/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_10m_00s__20m_00s_qguewg.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626872297/relax/Free_relaxing_music_No_Copyrights_-CbN1tDSmD2s_60m_00s__64m_00s_15h_zr8kiv.mp3",
+    url: "https://www.youtube.com/watch?v=CbN1tDSmD2s"
+  },
 ];
 let focus_tracks = [
   {
