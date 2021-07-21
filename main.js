@@ -277,13 +277,6 @@ function pauseTrack() {
 }
 
 function nextTrack() {
-#if 0
-  if (track_index >= track_list.length - 1) {
-    track_index = 0;
-  } else {
-    track_index += 1;
-  }
-#endif
   track_index = Math.floor(Math.random() * track_list.length);
 
   loadTrack(track_index);
