@@ -227,6 +227,7 @@ function loadSpecificTrackList(e) {
 
   track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
+  pauseTrack();
 }
 
 function filterTracks(tracks) {
@@ -258,7 +259,6 @@ function resetValues() {
 
 // Load the first track in the tracklist
 loadSpecificTrackList(filter_key);
-loadTrack(track_index);
 
 function playpauseTrack() {
   if (!isPlaying) playTrack();
