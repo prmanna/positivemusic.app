@@ -227,7 +227,6 @@ function loadSpecificTrackList(e) {
 
   track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
-  playTrack();
 }
 
 function filterTracks(tracks) {
