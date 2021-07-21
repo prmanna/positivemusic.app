@@ -22,7 +22,7 @@ let updateTimer;
 let curr_track = document.createElement('audio');
 
 let track_list = [];
-let filter_key = "focus";
+let filter_key = "relax";
 let last_button_id = filter_key;
 
 // Define the tracks that have to be played
