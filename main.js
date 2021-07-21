@@ -26,7 +26,7 @@ let track_list = [];
 let filter_key = "focus";
 
 // Define the tracks that have to be played
-let all_tracks = [
+let focus_tracks = [
   {
     name: "1",
     artist: "1",
@@ -59,6 +59,8 @@ let all_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678510/sleep/Relaxing_000m_00s__010m_00s_jiir17.mp3",
     url: ""
   },
+];
+let relax_tracks = [
   {
     name: "1",
     artist: "1",
@@ -91,6 +93,8 @@ let all_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689573/focus/Cambo-4-Focus_gwp5xh.mp3",
     url: ""
   },
+];
+let electronic_tracks = [
   {
     name: "8",
     artist: "8",
@@ -123,6 +127,8 @@ let all_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
     url: ""
   },
+];
+let nature_tracks = [
   {
     name: "4",
     artist: "4",
@@ -155,6 +161,8 @@ let all_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/instrumental/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
     url: ""
   },
+];
+let sleep_tracks = [
   {
     name: "4",
     artist: "4",
@@ -205,7 +213,19 @@ function random_bg_color() {
 
 function loadSpecificTrackList(e) {
   filter_key = e;
-  track_list = all_tracks.filter(filterTracks);
+
+  if (e == "focus")
+      track_list = focus_tracks;
+  else if (e == "relax")
+      track_list = relax_tracks;
+  else if (e == "electronic")
+      track_list = electronic_tracks;
+  else if (e == "nature")
+      track_list = nature_tracks;
+  else 
+      track_list = sleep_tracks;
+
+  track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
 }
 
@@ -237,7 +257,6 @@ function resetValues() {
 }
 
 // Load the first track in the tracklist
-//track_index = Math.floor((Math.random() * track_list.length));
 loadSpecificTrackList(filter_key);
 loadTrack(track_index);
 
@@ -259,12 +278,15 @@ function pauseTrack() {
 }
 
 function nextTrack() {
-  //track_index = Math.floor(Math.random() * track_list.length);
+#if 0
   if (track_index >= track_list.length - 1) {
     track_index = 0;
   } else {
     track_index += 1;
   }
+#endif
+  track_index = Math.floor(Math.random() * track_list.length);
+
   loadTrack(track_index);
   playTrack();
 }
