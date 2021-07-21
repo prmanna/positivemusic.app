@@ -23,6 +23,7 @@ let curr_track = document.createElement('audio');
 
 let track_list = [];
 let filter_key = "focus";
+let last_button_id = filter_key;
 
 // Define the tracks that have to be played
 let focus_tracks = [
@@ -223,6 +224,22 @@ function loadSpecificTrackList(e) {
       track_list = nature_tracks;
   else 
       track_list = sleep_tracks;
+
+  document.getElementById("focus").style.background = "black";
+  document.getElementById("relax").style.background = "black";
+  document.getElementById("electronic").style.background = "black";
+  document.getElementById("nature").style.background = "black";
+  document.getElementById("sleep").style.background = "black";
+
+  document.getElementById("focus").style.color = "white";
+  document.getElementById("relax").style.color = "white";
+  document.getElementById("electronic").style.color = "white";
+  document.getElementById("nature").style.color = "white";
+  document.getElementById("sleep").style.color = "white";
+
+  document.getElementById(e).style.background = "white";
+  document.getElementById(e).style.color = "black";
+  document.getElementById(e).style.backgroundImage = "url('https://res.cloudinary.com/dbkbw1o6v/image/upload/v1626866663/images/pexels-madison-inouye-1831234_ekttwu.jpg')";
 
   track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
