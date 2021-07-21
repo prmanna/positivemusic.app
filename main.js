@@ -26,53 +26,53 @@ let filter_key = "relax";
 let last_button_id = filter_key;
 
 // Define the tracks that have to be played
-let focus_tracks = [
-  {
-    name: "1",
-    artist: "1",
-    category: "focus",
-    image: "https://images.unsplash.com/photo-1594138029756-fe257377853b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678517/sleep/Relaxing_050m_00s__060m_00s_uzdsqi.mp3",
-    url: ""
-  },
-  {
-    name: "1",
-    artist: "1",
-    category: "focus",
-    image: "https://cdn-scraplogo.pearltrees.com/38/48/38486e1e53e4ea217fe4302a84623c94-pearlsquare.jpg?v=2019-16-09",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678512/sleep/Relaxing_020m_00s__030m_00s_k5y4du.mp3",
-    url: ""
-  },
-  {
-    name: "1",
-    artist: "1",
-    category: "focus",
-    image: "https://images.unsplash.com/photo-1594457841637-ee1a4f1e754c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678511/sleep/Relaxing_030m_00s__040m_00s_kg3cnm.mp3",
-    url: ""
-  },
-  {
-    name: "1",
-    artist: "1",
-    category: "focus",
-    image: "https://images.unsplash.com/photo-1506533159314-92937d1ea0f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678510/sleep/Relaxing_000m_00s__010m_00s_jiir17.mp3",
-    url: ""
-  },
-];
 let relax_tracks = [
   {
-    name: "1",
-    artist: "1",
+    name: "7",
+    artist: "7",
     category: "relax",
-    image: "https://images.everydayhealth.com/images/emotional-health/meditation/a-complete-guide-to-meditation-722x406.jpg?sfvrsn=e47f03cd_0",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678507/sleep/Relaxing_010m_00s__020m_00s_onywww.mp3",
-    url: ""
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869795/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__20m_00s__30m_00s_xpmteu.mp3",
+    url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
   },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869780/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__30m_00s__40m_00s_fjulnl.mp3",
+    url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869776/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__00m_00s__10m_00s_rh4g1a.mp3",
+    url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869772/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__40m_00s__50m_00s_ngdso4.mp3",
+    url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "relax",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626869770/relax/FREE_ROYALTY_FREE_RELAXING_MUSIC_by_Liborio_Conti_No_Copyright__10m_00s__20m_00s_str9ge.mp3",
+    url: "https://www.youtube.com/watch?v=yFFk1gxlgt0"
+  },
+];
+let focus_tracks = [
   {
     name: "5",
     artist: "5",
-    category: "relax",
+    category: "focus",
     image: "https://cdn.pixabay.com/photo/2017/04/08/22/26/buddhism-2214532__340.jpg",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689541/focus/Almusic34-Peace-landscape_hlhbya.mp3",
     url: ""
@@ -80,7 +80,7 @@ let relax_tracks = [
   {
     name: "6",
     artist: "6",
-    category: "relax",
+    category: "focus",
     image: "https://www.mcislanguages.com/website/wp-content/uploads/iStock-1161561165.jpg",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689524/focus/Cambo-3-Love-Yourself_krhpqk.mp3",
     url: ""
@@ -88,7 +88,7 @@ let relax_tracks = [
   {
     name: "7",
     artist: "7",
-    category: "relax",
+    category: "focus",
     image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689573/focus/Cambo-4-Focus_gwp5xh.mp3",
     url: ""
@@ -125,6 +125,38 @@ let electronic_tracks = [
     category: "electronic",
     image: "https://images.unsplash.com/photo-1549046675-dd779977de88?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWRtfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "electronic",
+    image: "https://images.unsplash.com/photo-1505673542670-a5e3ff5b14a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBza3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/instrumental/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "electronic",
+    image: "https://i.pinimg.com/originals/9b/e6/bb/9be6bbc89b5b18f0f99e177eff62edd1.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "electronic",
+    image: "https://i.ytimg.com/vi/1bLTSokZHsU/maxresdefault.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/instrumental/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
     url: ""
   },
 ];
@@ -164,35 +196,43 @@ let nature_tracks = [
 ];
 let sleep_tracks = [
   {
-    name: "4",
-    artist: "4",
-    category: "sleep",
-    image: "https://images.unsplash.com/photo-1505673542670-a5e3ff5b14a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBza3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/instrumental/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
+    name: "1",
+    artist: "1",
+    category: "relax",
+    image: "https://images.everydayhealth.com/images/emotional-health/meditation/a-complete-guide-to-meditation-722x406.jpg?sfvrsn=e47f03cd_0",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678507/sleep/Relaxing_010m_00s__020m_00s_onywww.mp3",
     url: ""
   },
   {
-    name: "4",
-    artist: "4",
-    category: "sleep",
-    image: "https://i.pinimg.com/originals/9b/e6/bb/9be6bbc89b5b18f0f99e177eff62edd1.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
+    name: "1",
+    artist: "1",
+    category: "focus",
+    image: "https://images.unsplash.com/photo-1594138029756-fe257377853b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678517/sleep/Relaxing_050m_00s__060m_00s_uzdsqi.mp3",
     url: ""
   },
   {
-    name: "4",
-    artist: "4",
-    category: "sleep",
-    image: "https://i.ytimg.com/vi/1bLTSokZHsU/maxresdefault.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
+    name: "1",
+    artist: "1",
+    category: "focus",
+    image: "https://cdn-scraplogo.pearltrees.com/38/48/38486e1e53e4ea217fe4302a84623c94-pearlsquare.jpg?v=2019-16-09",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678512/sleep/Relaxing_020m_00s__030m_00s_k5y4du.mp3",
     url: ""
   },
   {
-    name: "4",
-    artist: "4",
-    category: "sleep",
-    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/instrumental/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
+    name: "1",
+    artist: "1",
+    category: "focus",
+    image: "https://images.unsplash.com/photo-1594457841637-ee1a4f1e754c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678511/sleep/Relaxing_030m_00s__040m_00s_kg3cnm.mp3",
+    url: ""
+  },
+  {
+    name: "1",
+    artist: "1",
+    category: "focus",
+    image: "https://images.unsplash.com/photo-1506533159314-92937d1ea0f3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1625678510/sleep/Relaxing_000m_00s__010m_00s_jiir17.mp3",
     url: ""
   },
 ];
