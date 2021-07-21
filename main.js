@@ -21,7 +21,6 @@ let updateTimer;
 // Create new audio element
 let curr_track = document.createElement('audio');
 
-
 let track_list = [];
 let filter_key = "focus";
 
@@ -227,6 +226,7 @@ function loadSpecificTrackList(e) {
 
   track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
+  pauseTrack();
 }
 
 function filterTracks(tracks) {
