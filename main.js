@@ -239,7 +239,7 @@ function loadSpecificTrackList(e) {
 
   document.getElementById(e).style.background = "white";
   document.getElementById(e).style.color = "black";
-  document.getElementById(e).style.backgroundImage = "url('https://res.cloudinary.com/dbkbw1o6v/image/upload/v1626866663/images/pexels-madison-inouye-1831234_ekttwu.jpg')";
+  document.getElementById(e).style.backgroundImage = "url('https://res.cloudinary.com/dbkbw1o6v/image/upload/v1626867748/images/cool-background_iumcjq.png')";
 
   track_index = Math.floor((Math.random() * track_list.length));
   loadTrack(track_index);
