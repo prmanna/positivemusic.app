@@ -194,7 +194,7 @@ let focus_tracks = [
     artist: "5",
     category: "focus",
     image: "https://cdn.pixabay.com/photo/2017/04/08/22/26/buddhism-2214532__340.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689541/focus/Almusic34-Peace-landscape_hlhbya.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
     url: ""
   },
   {
@@ -202,6 +202,46 @@ let focus_tracks = [
     artist: "6",
     category: "focus",
     image: "https://www.mcislanguages.com/website/wp-content/uploads/iStock-1161561165.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689573/focus/Cambo-4-Focus_gwp5xh.mp3",
+    url: ""
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689561/focus/Cambo-2-Breathe_mntif1.mp3",
+    url: ""
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689541/focus/Almusic34-Peace-landscape_hlhbya.mp3",
+    url: ""
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689538/focus/Cambo-1-Welcome_eq3q21.mp3",
+    url: ""
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689532/focus/Almusic34-Journey-in-the-wind_t4puml.mp3",
+    url: ""
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689524/focus/Cambo-3-Love-Yourself_krhpqk.mp3",
     url: ""
   },
@@ -210,8 +250,48 @@ let focus_tracks = [
     artist: "7",
     category: "focus",
     image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689573/focus/Cambo-4-Focus_gwp5xh.mp3",
-    url: ""
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961380/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_20m_00s__30m_00s_umxsyg.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961379/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_30m_00s__40m_00s_kvweua.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961379/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_10m_00s__20m_00s_sutpyz.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961365/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_50m_00s__60m_00s_ymgii5.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961364/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_00m_00s__10m_00s_eftp55.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
+  },
+  {
+    name: "7",
+    artist: "7",
+    category: "focus",
+    image: "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/slideshows/what_happens_to_your_body_when_you_relax_slideshow/1800x1200_what_happens_to_your_body_when_you_relax_slideshow.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1626961356/focus/Best_Deep_Focus_Background_Music_For_Studying_and_Work_40m_00s__50m_00s_iboxkq.mp3",
+    url: "https://www.youtube.com/watch?v=vsHxaj1s5mE"
   },
 ];
 let electronic_tracks = [
