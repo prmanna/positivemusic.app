@@ -296,38 +296,6 @@ let focus_tracks = [
 ];
 let electronic_tracks = [
   {
-    name: "8",
-    artist: "8",
-    category: "electronic",
-    image: "https://musicianonamission.com/wp-content/uploads/2019/05/audio-blur-close-up-164745.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689538/focus/Cambo-1-Welcome_eq3q21.mp3",
-    url: ""
-  },
-  {
-    name: "9",
-    artist: "9",
-    category: "electronic",
-    image: "https://i.ytimg.com/vi/ypQZV03l80g/maxresdefault.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689561/focus/Cambo-2-Breathe_mntif1.mp3",
-    url: ""
-  },
-  {
-    name: "1",
-    artist: "1",
-    category: "electronic",
-    image: "https://a10.gaanacdn.com/images/occasion/web_header_image_EDM_1521097899.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689813/relax/Nesh-Carrot-Epick_jjuuzu.mp3",
-    url: ""
-  },
-  {
-    name: "3",
-    artist: "3",
-    category: "electronic",
-    image: "https://images.unsplash.com/photo-1549046675-dd779977de88?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZWRtfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689596/focus/Almusic34-Harmony-in-the-night_vrzymr.mp3",
-    url: ""
-  },
-  {
     name: "4",
     artist: "4",
     category: "electronic",
