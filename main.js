@@ -300,7 +300,7 @@ let electronic_tracks = [
     artist: "4",
     category: "electronic",
     image: "https://images.unsplash.com/photo-1505673542670-a5e3ff5b14a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBza3l8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/instrumental/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694399/electronic/Mr.ruiZ_-_Artic_Air.mp3_cn7ovl.mp3",
     url: ""
   },
   {
@@ -308,7 +308,7 @@ let electronic_tracks = [
     artist: "4",
     category: "electronic",
     image: "https://i.pinimg.com/originals/9b/e6/bb/9be6bbc89b5b18f0f99e177eff62edd1.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/electronic/Mr.ruiZ_-_Lifeforce_9.mp3_xkbgmp.mp3",
     url: ""
   },
   {
@@ -316,7 +316,7 @@ let electronic_tracks = [
     artist: "4",
     category: "electronic",
     image: "https://i.ytimg.com/vi/1bLTSokZHsU/maxresdefault.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/instrumental/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694397/electronic/Mr.ruiZ_-_Winter_Wandering.mp3_etbbgn.mp3",
     url: ""
   },
   {
@@ -324,7 +324,7 @@ let electronic_tracks = [
     artist: "4",
     category: "electronic",
     image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/instrumental/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/electronic/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
     url: ""
   },
 ];
@@ -342,7 +342,7 @@ let nature_tracks = [
     artist: "4",
     category: "nature",
     image: "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?size=626&ext=jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
     url: ""
   },
   {
@@ -350,7 +350,7 @@ let nature_tracks = [
     artist: "4",
     category: "nature",
     image: "https://assets.hongkiat.com/uploads/nature-photography/autumn-poolside.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/instrumental/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
     url: ""
   },
   {
@@ -358,7 +358,7 @@ let nature_tracks = [
     artist: "4",
     category: "nature",
     image: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/instrumental/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/electronic/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
     url: ""
   },
 ];
