@@ -327,6 +327,94 @@ let electronic_tracks = [
     path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694396/electronic/Mr.ruiZ_-_Daddy_s_Outta_Town.mp3_yuugkp.mp3",
     url: ""
   },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/electronic/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957558/electronic/Audiobinger_-_Catching_Feelings_paworn.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957569/electronic/Scott_Holmes_Music_-_Digital_Age_s887h6.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957573/electronic/Scott_Holmes_Music_-_Follow_your_Dreams_kbujkg.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957574/electronic/Siddhartha_Corsus_-_Limitless_ixgbvd.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957592/electronic/Scott_Holmes_Music_-_Kiss_the_Sky_v7pbz9.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957598/electronic/Maarten_Schellekens_-_From_Andante_to_Adagio_w3ez4c.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957600/electronic/Scott_Holmes_Music_-_Happy_Whistle_qdu0ht.mp3",
+    url: ""
+  },
+  {
+    name: "ignore",
+    artist: "ignore",
+    category: "electronic",
+    image: "https://video.fsetyt.com/wp-content/uploads/2019/07/1562331127_maxresdefault_live.jpg",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1635957604/electronic/Siddhartha_Corsus_-_Gayatri_Mantra_Tapestry_of_Light_okxj38.mp3",
+    url: ""
+  },
 ];
 let nature_tracks = [
   {
