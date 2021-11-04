@@ -422,31 +422,175 @@ let nature_tracks = [
     artist: "4",
     category: "nature",
     image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623689532/focus/Almusic34-Journey-in-the-wind_t4puml.mp3",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014867/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_10m_00s__20m_00s_rvkcog.mp3",
     url: ""
   },
   {
     name: "4",
     artist: "4",
     category: "nature",
-    image: "https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?size=626&ext=jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_Beach_Ballin_.mp3_flqxjg.mp3",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014864/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_00m_00s__10m_00s_nrel2i.mp3",
     url: ""
   },
   {
     name: "4",
     artist: "4",
     category: "nature",
-    image: "https://assets.hongkiat.com/uploads/nature-photography/autumn-poolside.jpg",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694402/electronic/Mr.ruiZ_-_A_Rush_Of_Blood_To_The_Heart.mp3_r18efu.mp3",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014855/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_20m_00s__30m_00s_yogfyi.mp3",
     url: ""
   },
   {
     name: "4",
     artist: "4",
     category: "nature",
-    image: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1623694401/electronic/Mr.ruiZ_-_Take_A_Breath.mp3_wgkzs0.mp3",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014855/nature/Nature_sounds_Meditation_forest_sounds_of_birds_singing_relaxation_-_4_minutes-wKnS8VPxpHI_v0p43k.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014851/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_30m_00s__40m_00s_rmxlzh.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014851/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_40m_00s__50m_00s_gnjeka.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014842/nature/Relaxing_River_Sounds_-_Gentle_River_Nature_Sounds_Singing_Birds_Ambience-LiiYMEWKVnY_50m_00s__60m_00s_injbbz.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014836/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_010m_00s__020m_00s_tlq0w7.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014833/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_000m_00s__010m_00s_sjg96c.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014821/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_020m_00s__030m_00s_atohgo.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014814/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_040m_00s__050m_00s_e7ewsg.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014811/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_030m_00s__040m_00s_xczhch.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014809/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_060m_00s__070m_00s_ideql5.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014808/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_080m_00s__090m_00s_jvtrzz.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014807/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_050m_00s__060m_00s_w4jv5g.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014797/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_070m_00s__080m_00s_dawivz.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014789/nature/Nature_Therapy_-_Relaxing_Full_Motion_Forestry_with_Natural_Sounds-Kb8CW3axqRE_20m_00s__30m_00s_yznmje.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014788/nature/Nature_Therapy_-_Relaxing_Full_Motion_Forestry_with_Natural_Sounds-Kb8CW3axqRE_10m_00s__20m_00s_bpdnuo.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014783/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_090m_00s__100m_00s_mhgxsu.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014774/nature/Nature_Therapy_-_Relaxing_Full_Motion_Forestry_with_Natural_Sounds-Kb8CW3axqRE_00m_00s__10m_00s_nmgcug.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014773/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_100m_00s__110m_00s_q1fiho.mp3",
+    url: ""
+  },
+  {
+    name: "4",
+    artist: "4",
+    category: "nature",
+    image: "https://images.unsplash.com/photo-1420593248178-d88870618ca0?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3ByaW5nJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+    path: "https://res.cloudinary.com/dbkbw1o6v/video/upload/v1636014771/nature/Forest_Birdsong_-_Relaxing_Nature_Sounds_-_Birds_Chirping_-_REALTIME_-_NO_LOOP_-_2_Hours_-_HD_1080p-Qm846KdZN_c_110m_00s__120m_00s_cufcq8.mp3",
     url: ""
   },
 ];
